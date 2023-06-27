@@ -3,13 +3,6 @@ Advantages of Using ChatGPT in Customer Support
 
 In this chapter, we will introduce ChatGPT and explore the advantages of using it in customer support. ChatGPT is an AI-powered chatbot that uses natural language processing and machine learning to generate accurate and relevant responses to customer inquiries.
 
-What is ChatGPT?
-----------------
-
-ChatGPT is a chatbot that is built on top of OpenAI's GPT-3.5 language model. It uses advanced natural language processing techniques to understand customer inquiries and generate personalized responses in real-time.
-
-ChatGPT is designed to be highly scalable and efficient, allowing organizations to handle large volumes of customer inquiries without the need for additional human support agents.
-
 Advantages of Using ChatGPT in Customer Support
 -----------------------------------------------
 

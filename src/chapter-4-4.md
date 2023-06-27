@@ -3,13 +3,6 @@ Case Studies on ChatGPT in Customer Support
 
 ChatGPT is an AI-powered language model that can generate human-like responses to customer inquiries. In this chapter, we will introduce ChatGPT and explore some case studies of its use in customer support.
 
-What is ChatGPT?
-----------------
-
-ChatGPT is a language model developed by OpenAI that uses deep learning algorithms to generate contextually relevant responses to natural language queries. It is trained on a massive dataset of internet text, allowing it to generate human-like responses to a wide range of inquiries.
-
-One of the key benefits of ChatGPT is its ability to understand and interpret natural language, allowing it to provide personalized and efficient support to customers across multiple channels.
-
 Case Studies
 ------------
 
