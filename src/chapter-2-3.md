@@ -1,5 +1,4 @@
-Types of AI-powered Customer Support Techniques Used
-==========================================================================================================
+
 
 AI-powered customer support is transforming the way organizations provide support to their customers. In this chapter, we will discuss the different types of AI-powered customer support techniques that organizations are using to improve the customer experience.
 

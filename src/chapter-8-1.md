@@ -1,5 +1,4 @@
-Summary of Key Points
-=================================
+
 
 In this book, we have explored the use of AI-powered customer support and assistance, with a particular focus on ChatGPT. Below is a summary of the key points covered in each chapter:
 
