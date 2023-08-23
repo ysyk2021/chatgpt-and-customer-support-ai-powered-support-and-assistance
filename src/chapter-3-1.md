@@ -1,5 +1,4 @@
 
-
 Chatbots and artificial intelligence (AI) are rapidly transforming customer support operations. In this chapter, we will provide an overview of chatbots and AI and their applications in customer support.
 
 What are Chatbots?

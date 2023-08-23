@@ -1,5 +1,4 @@
 
-
 While AI-powered customer support has the potential to revolutionize the way organizations provide support to their customers, there are still some limitations and challenges that must be addressed. In this chapter, we will discuss these limitations and identify future research directions for AI-powered customer support.
 
 Limitations

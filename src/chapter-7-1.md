@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore the emerging trends and directions in chatbots and AI in customer support. As technology continues to evolve, so too does the potential of AI-powered customer support systems like ChatGPT.
 
 Multilingual Support

@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore how ChatGPT provides customer support by examining case studies that highlight its key support features.
 
 Case Study 1: Product Support for an E-commerce Company

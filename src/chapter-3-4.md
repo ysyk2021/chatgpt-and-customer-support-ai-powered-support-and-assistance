@@ -1,5 +1,4 @@
 
-
 The use of chatbots and artificial intelligence (AI) in customer support has become increasingly popular in recent years. In this chapter, we will discuss the advantages of using chatbots and AI in customer support.
 
 Improved Response Times

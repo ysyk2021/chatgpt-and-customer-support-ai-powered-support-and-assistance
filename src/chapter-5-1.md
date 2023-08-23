@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore how ChatGPT works to provide customer support. ChatGPT is an AI language model that generates human-like responses to natural language queries. It does this by using deep learning algorithms to analyze a massive dataset of internet text. When a user submits a query, ChatGPT uses this analysis to generate a contextually relevant response.
 
 Natural Language Processing (NLP)
