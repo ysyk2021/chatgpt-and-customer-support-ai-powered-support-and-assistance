@@ -1,5 +1,4 @@
-Chapter: Planning and Designing ChatGPT for Customer Support
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Planning and designing ChatGPT for customer support involves careful consideration of various factors, including the specific use case, user needs, system requirements, and ethical considerations. This chapter outlines key steps involved in planning and designing an effective ChatGPT-based customer support system.
 

@@ -1,5 +1,4 @@
-Chapter: Evaluating ChatGPT's Performance and Effectiveness
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Evaluating the performance and effectiveness of AI-powered systems like ChatGPT is crucial for organizations to ensure they meet the desired goals of delivering exceptional customer support. This chapter explores various approaches and metrics used to assess ChatGPT's performance.
 

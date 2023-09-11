@@ -1,5 +1,4 @@
-Chapter: The Features of ChatGPT
-================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT is a state-of-the-art AI language model that enables organizations to deliver personalized and efficient customer support. This chapter provides an overview of the key features and capabilities of ChatGPT.
 

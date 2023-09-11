@@ -1,5 +1,4 @@
-Chapter: How ChatGPT Uses Data to Provide Customer Support
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter explores how ChatGPT utilizes data to deliver effective customer support. By leveraging various data sources and employing advanced algorithms, ChatGPT analyzes and interprets information to provide accurate and relevant assistance to customers.
 

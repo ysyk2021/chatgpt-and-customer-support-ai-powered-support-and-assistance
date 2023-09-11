@@ -1,5 +1,4 @@
-Chapter: Integration with Existing Customer Support Systems
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Integrating AI-powered customer support systems, such as ChatGPT, with existing customer support infrastructure can enhance efficiency, improve customer experience, and streamline operations. This chapter explores the benefits of integrating ChatGPT with existing customer support systems and discusses the key considerations for successful integration.
 

@@ -1,5 +1,4 @@
-Chapter: What is ChatGPT?
-=========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT is an AI-powered conversational agent that uses natural language processing and machine learning to engage in interactive and dynamic conversations with users. Developed using OpenAI's GPT-3.5 model, ChatGPT is designed to provide support, assistance, and information across a wide range of customer service scenarios.
 

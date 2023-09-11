@@ -1,5 +1,4 @@
-Chapter: Advantages of Using ChatGPT in Customer Support
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT offers several advantages for customer support, revolutionizing the way businesses interact with their customers. This chapter highlights the key benefits and advantages of leveraging ChatGPT in customer support scenarios.
 

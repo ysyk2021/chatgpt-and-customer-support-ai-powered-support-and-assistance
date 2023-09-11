@@ -1,5 +1,4 @@
-Chapter: Case Studies on ChatGPT's Support Features
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter presents case studies that showcase the diverse applications and success stories of ChatGPT's support features in real-world customer support scenarios. These examples highlight how organizations have leveraged ChatGPT to enhance their support capabilities and deliver exceptional customer experiences.
 

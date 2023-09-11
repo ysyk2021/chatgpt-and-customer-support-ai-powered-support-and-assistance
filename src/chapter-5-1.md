@@ -1,5 +1,4 @@
-Chapter: How ChatGPT Works
-==========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the inner workings of ChatGPT, an AI-powered support and assistance system designed to revolutionize customer support. ChatGPT utilizes advanced natural language processing and machine learning techniques to engage in interactive conversations with users and provide helpful responses.
 

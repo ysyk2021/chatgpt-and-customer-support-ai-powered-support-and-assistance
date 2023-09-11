@@ -1,5 +1,4 @@
-Chapter: Training ChatGPT and Managing Conversations
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Training ChatGPT and effectively managing conversations are crucial for providing accurate, context-aware, and helpful customer support experiences. This chapter explores the process of training ChatGPT, including data preparation, fine-tuning, and conversational management techniques.
 
